@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "LAN8720A-CP")(type "KiCad")(uri "${KIPRJMOD}/Symbols.pretty/LAN8720A-CP.kicad_sym")(options "")(descr ""))
+  (lib (name "HR911105A")(type "KiCad")(uri "${KIPRJMOD}/Symbols.pretty/HR911105A.kicad_sym")(options "")(descr ""))
+  (lib (name "ASCO-50.000MHZ-EK-T3")(type "KiCad")(uri "${KIPRJMOD}/Symbols.pretty/ASCO-50.000MHZ-EK-T3.kicad_sym")(options "")(descr ""))
+  (lib (name "BMI088")(type "KiCad")(uri "${KIPRJMOD}/Symbols.pretty/BMI088.kicad_sym")(options "")(descr ""))
+)
